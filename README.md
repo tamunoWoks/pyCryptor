@@ -29,5 +29,9 @@ A polyalphabetic cipher that uses a keyword to determine the shift for each lett
 ---
 
 ## Limitations
-This tool is meant for educational purposes and should not be used for sensitive data encryption.
-The strength of the encryption depends on the cipher and key used.
+- This tool is meant for educational purposes and should not be used for sensitive data encryption.
+- The strength of the encryption depends on the cipher and key used.
+
+## Acknowledgments
+- The concept of Caesar and Vigenère Ciphers is inspired by ancient cryptographic methods.
+- Thanks to the Python community for providing helpful libraries and documentation.
