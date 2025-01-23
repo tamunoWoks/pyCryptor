@@ -4,7 +4,6 @@
 
 `pyCryptor` is a simple yet powerful command-line encryption and decryption tool written in Python. It supports multiple encryption techniques to secure your messages, such as the **Caesar Cipher**, **Substitution Cipher**, and **Vigenère Cipher**. Whether you're encrypting messages for fun or learning about cryptographic algorithms, `pyCryptor` is an excellent choice to explore the basics of encryption.
 
----
 
 ## Features
 
@@ -14,7 +13,6 @@
 - **User-Friendly Interface**: A menu-driven program that is easy to navigate.
 - **Cross-Platform**: Works on any system with Python installed.
 
----
 
 ## How It Works
 ### 1. Caesar Cipher
@@ -26,7 +24,6 @@ Each letter is replaced by a corresponding character based on a predefined mappi
 ### 3. Vigenère Cipher
 A polyalphabetic cipher that uses a keyword to determine the shift for each letter in the message, making it harder to crack.
 
----
 
 ## Limitations
 - This tool is meant for educational purposes and should not be used for sensitive data encryption.
