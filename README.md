@@ -15,3 +15,15 @@
 - **Cross-Platform**: Works on any system with Python installed.
 
 ---
+
+## How It Works
+### 1. Caesar Cipher
+A basic shift cipher where each letter is shifted by a user-defined number of positions in the alphabet. Non-alphabetic characters are preserved.
+
+### 2. Substitution Cipher
+Each letter is replaced by a corresponding character based on a predefined mapping. This method provides stronger encryption compared to Caesar Cipher.
+
+### 3. Vigenère Cipher
+A polyalphabetic cipher that uses a keyword to determine the shift for each letter in the message, making it harder to crack.
+
+---
